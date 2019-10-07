@@ -111,16 +111,42 @@ h1{
 /*------tablet below this line---------*/
 @media only screen and (min-width: 800px) and (max-width: 1280px){
   body{
-        background-color: #3C153B;
-        opactiy: 80%;
+        background-color: #23777E;
         color: white;
+    }
+    h1{
+        color: white;
+        font-family: kumlien-pro, serif;
+        font-weight: 500;
+        font-style: normal;
+        font-size: 70px;
+        margin-left: 30px;
+    }
+    
+    .name{
+        color: white;
+        font-family: kumlien-pro, serif;
+        font-weight: 500;
+        font-size: 14px;
+        font-style: normal;
+        margin-left: 30px;
+        margin-top: 10px;
+    }
+    .opening{
+        font-family: ff-basic-gothic-pro, sans-serif;
+        font-weight:200;
+        font-style: normal;
+        margin-left: 30px;
+        margin-top: 15px;
+        font-size: 11px;
     }
     #contents{
         color: white;
         font-family: ff-basic-gothic-pro, sans-serif;
         font-weight: 300;
         font-style: normal;
-        margin-left:975px;
+        margin-left:311px;
+        margin-top: 200px;
     }
     a:link{
         color: #E2F7FF;
@@ -131,3 +157,157 @@ h1{
     a:hover{
         color: white;
     }
+    .part1{
+        color:white;
+        margin-left: 145px;
+        margin-top: 250px;
+        font-family:kumlien-pro, serif; 
+        font-weight: 500;
+        font-size: 16px;
+        font-style: normal;
+        font-size: 20px;
+        border-bottom: 1px solid white;
+    }
+    .glastonbury{
+        color: white;
+        font-family: ff-basic-gothic-pro, sans-serif;
+        font-weight:900;
+        font-style: normal;
+        margin-left: 380px;
+        margin-top: 33px;
+    
+    }
+    .line{
+        color: white;
+        margin-left: 380px;
+        font-family: ff-basic-gothic-pro, sans-serif;
+        font-weight:500;
+        font-style: normal;
+        line-height: 2;
+        margin-top: 2px;
+    
+    }
+    .top{
+        color: white;
+        font-family: ff-basic-gothic-pro, sans-serif;
+        font-weight:900;
+        font-style: normal;
+        margin-left: 380px;
+        margin-top: 33px;
+    
+    }.line1{
+        color: white;
+        margin-left: 380px;
+        font-family: ff-basic-gothic-pro, sans-serif;
+        font-weight:500;
+        font-style: normal;
+        line-height: 2;
+        margin-top: -5px;
+    
+    }
+    .hide{
+        visibility: hidden;
+        display: none;
+    }
+}
+@media only screen and (max-width: 799px){
+    body{
+        background-color: #98802F;
+        color: white;
+    }
+    h1{
+        color: white;
+        font-family: kumlien-pro, serif;
+        font-weight: 500;
+        font-style: normal;
+        font-size: 70px;
+        margin-left: 30px;
+    }
+    
+    .name{
+        color: white;
+        font-family: kumlien-pro, serif;
+        font-weight: 500;
+        font-size: 14px;
+        font-style: normal;
+        margin-left: 30px;
+        margin-top: 10px;
+    }
+    .opening{
+        font-family: ff-basic-gothic-pro, sans-serif;
+        font-weight:200;
+        font-style: normal;
+        margin-left: 30px;
+        margin-top: 15px;
+        font-size: 11px;
+    }
+    #contents{
+        color: white;
+        font-family: ff-basic-gothic-pro, sans-serif;
+        font-weight: 300;
+        font-style: normal;
+        margin-left:50px;
+        margin-top: 200px;
+    }
+    a:link{
+        color: #E2F7FF;
+    }
+    a:visited{
+        color: #D0D0D0
+    }
+    a:hover{
+        color: white;
+    }
+    .part1{
+        color:white;
+        margin-left: 380px;
+        margin-top: 250px;
+        font-family:kumlien-pro, serif; 
+        font-weight: 500;
+        font-size: 16px;
+        font-style: normal;
+        font-size: 20px;
+        border-bottom: 1px solid white;
+    }
+    .glastonbury{
+        color: white;
+        font-family: ff-basic-gothic-pro, sans-serif;
+        font-weight:900;
+        font-style: normal;
+        margin-left: 50px;
+        margin-top: 33px;
+    
+    }
+    .line{
+        color: white;
+        margin-left: 50px;
+        font-family: ff-basic-gothic-pro, sans-serif;
+        font-weight:500;
+        font-style: normal;
+        line-height: 2;
+        margin-top: 2px;
+    
+    }
+    .top{
+        color: white;
+        font-family: ff-basic-gothic-pro, sans-serif;
+        font-weight:900;
+        font-style: normal;
+        margin-left: 50px;
+        margin-top: 33px;
+    
+    }.line1{
+        color: white;
+        margin-left: px;
+        font-family: ff-basic-gothic-pro, sans-serif;
+        font-weight:500;
+        font-style: normal;
+        line-height: 2;
+        margin-top: -5px;
+    
+    }
+    .hide{
+        visibility: hidden;
+        display: none;
+    }
+}
