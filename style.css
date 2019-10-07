@@ -1,0 +1,103 @@
+
+body, html{
+    padding: 0;
+    margin: 0;
+    display: grid;
+    height: 100%;
+}
+body{
+    background-color: #3C153B;
+    color: white;
+}
+
+#contents{
+    color: white;
+    font-family: ff-basic-gothic-pro, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    margin-left:975px;
+}
+a:link{
+    color: #E2F7FF;
+}
+a:visited{
+    color: #D0D0D0
+}
+a:hover{
+    color: white;
+}
+h1{
+    color: white;
+    font-family: kumlien-pro, serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 90px;
+    margin-left: 50px;
+    position: fixed;
+}
+
+.name{
+    color: white;
+    font-family: kumlien-pro, serif;
+    font-weight: 500;
+    font-size: 16px;
+    font-style; normal;
+    margin-left: 50px;
+    margin-top: 325px;
+    position:fixed; 
+}
+.opening{
+    font-family: ff-basic-gothic-pro, sans-serif;
+    font-weight:200;
+    font-style: normal;
+    margin-left: 50px;
+    margin-top: 350px;
+    position: fixed;
+    font-size: 13px;
+}
+.part1{
+    color:white;
+    margin-left: 810px;
+    font-family:kumlien-pro, serif; 
+    font-weight: 500;
+    font-size: 16px;
+    font-style; normal;
+    font-size:20px;
+    border-bottom: 1px solid white;
+}
+.glastonbury{
+    color: white;
+    font-family: ff-basic-gothic-pro, sans-serif;
+    font-weight:900;
+    font-style: normal;
+    margin-left: 975px;
+    margin-top: 33px;
+
+}
+.line{
+    color: white;
+    margin-left: 975px;
+    font-family: ff-basic-gothic-pro, sans-serif;
+    font-weight:500;
+    font-style: normal;
+    line-height: 2;
+    margin-top: 2px;
+
+}
+.top{
+    color: white;
+    font-family: ff-basic-gothic-pro, sans-serif;
+    font-weight:900;
+    font-style: normal;
+    margin-left: 975px;
+    margin-top: 33px;
+}.line1{
+    color: white;
+    margin-left: 975px;
+    font-family: ff-basic-gothic-pro, sans-serif;
+    font-weight:500;
+    font-style: normal;
+    line-height: 2;
+    margin-top: -5px;
+
+}
