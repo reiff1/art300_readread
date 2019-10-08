@@ -85,6 +85,15 @@ h1{
     margin-top: 2px;
 
 }
+.line:last-of-type{
+    color: #DD7373;
+    margin-left: 975px;
+    font-family: ff-basic-gothic-pro, sans-serif;
+    font-weight:500;
+    font-style: normal;
+    line-height: 2;
+    margin-top: 2px;
+}
 .top{
     color: white;
     font-family: ff-basic-gothic-pro, sans-serif;
@@ -187,6 +196,15 @@ h1{
         margin-top: 2px;
     
     }
+    .line:last-of-type{
+        color: #000540;
+        margin-left: 380px;
+        font-family: ff-basic-gothic-pro, sans-serif;
+        font-weight:500;
+        font-style: normal;
+        line-height: 2;
+        margin-top: 2px;
+    }
     .top{
         color: white;
         font-family: ff-basic-gothic-pro, sans-serif;
@@ -287,6 +305,15 @@ h1{
         line-height: 2;
         margin-top: 2px;
     
+    }
+    .line:last-of-type{
+        color: #400000;
+        margin-left: 50px;
+        font-family: ff-basic-gothic-pro, sans-serif;
+        font-weight:500;
+        font-style: normal;
+        line-height: 2;
+        margin-top: 2px;
     }
     .top{
         color: white;
